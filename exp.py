@@ -1,1 +1,1 @@
-print("exponentiation", 2 ** 2)
+print("exponentiation", 2 ** 4)
