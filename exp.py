@@ -1,0 +1,1 @@
+print("exponentiation", 2 ** 2)
